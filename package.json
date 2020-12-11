@@ -8,7 +8,7 @@
 		"name": "",
 		"url": ""
 	},
-	"main": "jquery-ui.min.js",
+	"main": "js/tag-it.min.js",
 	"maintainers": [
 	],
 	"repository": {
