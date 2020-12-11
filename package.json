@@ -1,0 +1,23 @@
+{
+	"name": "tag-it",
+	"title": "Tag-it",
+	"description": "",
+	"version": "2.0.0",
+	"homepage": "",
+	"author": {
+		"name": "",
+		"url": ""
+	},
+	"main": "jquery-ui.min.js",
+	"maintainers": [
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/breenyoung/tag-it"
+	},
+	"license": "MIT",
+	"scripts": {
+	},
+	"dependencies": {},
+	"keywords": []
+}
